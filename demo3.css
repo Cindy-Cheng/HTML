@@ -1,0 +1,26 @@
+#div1{
+	width: 300px;
+	height: 30px;
+	background:f3f3f3;
+	border-bottom: 2px solid #cfcfcf;
+}
+#div2{
+	width: 300px;
+	height: 57px;
+	background: url(../images/a1.png) #ffffff 17px 25px no-repeat;
+}
+#div3{
+	width: 300px;
+	height: 127px;
+	background: url(../images/a2.png) #f7f7f7 9px 51px no-repeat;
+}
+#div4{
+	width: 300px;
+	height: 77px;
+	background: url(../images/a3.png) #ffffff 17px 25px no-repeat;
+}
+#div5{
+	width: 300px;
+	height: 127px;
+	background: url(../images/a4.png) #f7f7f7 14px 50px no-repeat;
+}
